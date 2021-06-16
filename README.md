@@ -8,7 +8,7 @@ As the world is becoming more and more dependent on technology, and most if not,
 This DevSecOps development aims to create a framework for a software pipeline that conforms to external regulatory compliance and secures the company’s digital assets.
 
 ## Outcome 
-This group project that produced a comprehensive research report and executive-level presentation that describes automating Governance as Code in a Dev-Sec-Ops model. This research describes leading practices for automating governance and provides a phased approach to implementing such a practice at a large healthcare organization.
+This project produced a comprehensive research report and executive-level presentation that describes automating Governance as Code in a Dev-Sec-Ops model. This research describes leading practices for automating governance and provides a phased approach to implementing such a practice at a large healthcare organization.
 
 
 ### Team Members:
